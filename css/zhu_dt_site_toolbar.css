@@ -1,0 +1,139 @@
+.zhu_dt_stb_box {
+    background: #F7BBBB;
+    color:blue;
+    position:absolute;
+    border:solid 1px black;
+    border-radius: 10px;
+    padding:10px;
+	font: Times;
+	font-size:14px;
+    
+    resize:both;
+}
+
+.zhu_dt_stb_box_button {
+    background: transparent;
+    color:black;
+    border: solid 1px black;
+    font-size:14px;
+    height:inherit;
+    border-radius: 5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:10px;
+    padding-right:10px;
+    margin:0px;
+}
+
+.zhu_dt_stb_box_button:hover {
+    background: white;
+    color:black;
+}
+
+.zhu_dt_stb_box_button:focus {
+    color: white;
+    background:black;       
+}
+
+
+.zhu_dt_stb_box .dashicons {
+    padding-right:30px;
+}
+
+
+
+
+.zhu_dt_stb_box_inner {
+    overflow: hidden;
+}
+
+.zhu_dt_stb_popup_box {
+    overflow: hidden;
+}
+
+.zhu_dt_popup_close {
+    float:left;
+}
+
+.zhu_dt_popup_minmax {
+    float:right;
+    background: #F7BBBB;
+    color:black;
+    padding-left:8px;
+    padding-right:4px;
+    cursor:default;
+}
+
+.zhu_dt_stb_popup_box .zhu_dt_stb_drag_handle {
+    margin-left:25px;
+}
+
+.zhu_dt_stb_box .dashicons {
+    font-size:30px;
+}
+
+.zhu_dt_stb_box .dashicons:hover {
+    color:blueviolet;
+}
+
+#zhu_dt_stb_menu {
+    top:40px;
+    left:40px;
+    width:200px;
+    display:none;
+    z-index: 9999;
+}
+
+.zhu_dt_stb_drag_handle {
+    width:100%;
+    height:24px;
+    background: repeating-linear-gradient(
+        45deg,
+        #FF9F7F 10px,
+        pink 20px
+        );
+    color:black;
+    font-weight: 800;
+    margin-bottom:10px;
+    cursor:move;
+}
+
+.zhu_dt_div_content_outer {
+    overflow: auto;
+}
+
+.zhu_dt_div_content {
+}
+
+#zhu_dt_cv_div {
+    min-width:500px;
+}
+
+.zhu_dt_delete_cookie_button {
+    width:60px;
+    background: red;
+    color:white;
+    font-size:11px;
+    margin:0px;
+    padding:5px;
+    height:inherit;
+    border-radius: 4px;
+}
+
+.zhu_dt_delete_cookie_button:hover {
+    background:white;
+    color:red;
+}
+
+.zhu_dt_cookie_pre {
+    font-family: monospace;
+    display:inline;
+    white-space: pre-line;
+    background: transparent;
+    padding-top: 0px;
+    padding-left:10px;
+}
+
+.zhu_dt_cookie_row_div {
+    margin-bottom: 10px;
+}

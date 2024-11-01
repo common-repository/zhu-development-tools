@@ -1,0 +1,8 @@
+What is Zhu?
+
+In case you were wondering, Zhu is a nickname for a cat I 
+use to have and I've used as a prefix for my WordPress 
+development to reduce the risk of conflicting names.
+
+David Pullin
+December 2020

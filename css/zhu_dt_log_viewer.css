@@ -1,0 +1,21 @@
+.zhu_dt_table_sep th,
+.zhu_dt_table_sep td
+{
+    padding:0px;
+    margin:0px;
+}
+
+.zhu_dt_log_viewer .column-id {
+    width:60px;
+}
+
+
+.zhu_dt_log_viewer .column-log_date {
+    width:140px;
+}
+
+
+#zhu_dt_log_truncate_button {
+    float:right;
+}
+
